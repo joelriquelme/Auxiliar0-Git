@@ -7,3 +7,4 @@ class Usuario:
 
     def agregarTarea(self, tarea):
         self.tareas.append(tarea)
+
